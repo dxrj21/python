@@ -25,6 +25,4 @@ def calculator():
                 print("ไม่สามารถหารด้วยศูนย์ได้")
     else:
         print("เลือกไม่ถูกต้อง กรุณาเลือกใหม่")
-
-# เรียกใช้งานฟังก์ชัน
-calculator()
+calculator()   
